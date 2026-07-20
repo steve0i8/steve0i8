@@ -1,18 +1,208 @@
-# 💫 About Me:
-I'm a Software Engineer working with full-stack applications. My primary speciality is C# .NET frameworks
+<h1 align="center">Hi 👋, I'm <strong>Sivuziwe Manyuka</strong></h1>
 
+<h3 align="center">
+Software Engineer • ASP.NET Core • C# • Backend Engineering • AI-Powered Applications
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inkedin.com/in/sivuziwe-manyuka-a294aa287/) 
+<p align="center">
+I enjoy designing scalable backend systems, building enterprise applications, and solving real-world problems through software engineering.
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=steve0i8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=steve0i8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=steve0i8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=steve0i8&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=steve0i8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+I'm a Software Developer from South Africa with a passion for building modern backend systems, enterprise applications, and AI-powered software.
+
+I recently completed my qualification in Software Development and continue to expand my skills by developing production-style applications that focus on scalability, clean architecture, security, and maintainability.
+
+My primary expertise lies in the Microsoft ecosystem, where I enjoy designing REST APIs, implementing secure authentication and authorization, working with SQL Server, and building applications that solve meaningful business problems.
+
+---
+
+# 🚀 Current Focus
+
+* 🧠 Building an AI-powered **Meeting Memory Engine**
+* 🏥 Expanding my enterprise healthcare platform (**CareConnect**)
+* ☁️ Learning Azure, Docker and Cloud Architecture
+* 📐 Improving my knowledge of Software Architecture & System Design
+* 📚 Studying Design Patterns and Clean Architecture
+
+---
+
+# 🧠 Featured Project — Meeting Memory Engine
+
+An AI-powered meeting intelligence platform that transforms meeting recordings into searchable knowledge.
+
+### Current Features
+
+* JWT Authentication
+* Role-Based Authorization
+* API Gateway
+* Secure User Registration & Login
+* Audio Upload & Validation
+* AI-ready Processing Pipeline
+* Meeting Management
+* CRUD Operations
+* RESTful APIs
+* SQL Server
+* Repository Pattern
+
+### Currently Building
+
+* Live Dashboard & Analytics
+* Real-Time Processing
+* Interactive Data Visualizations
+* AI Meeting Summaries
+* Action Item Extraction
+* Searchable Meeting History
+* Provider-based AI Integration (OpenAI/Demo Provider)
+
+---
+
+# 🏥 Featured Project — CareConnect
+
+Enterprise Hospital & Ward Management System
+
+Built using ASP.NET Core MVC with a focus on scalability and maintainability.
+
+### Features
+
+* Multi-role Authentication
+* Doctor Dashboard
+* Patient Management
+* Appointment Scheduling
+* Prescription Management
+* Instructions Management
+* Ward Administration
+* Reporting & Charts
+* SQL Server
+* Dapper
+* Entity Framework Core
+* Bootstrap
+* Chart.js
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,js,html,css" />
+</p>
+
+### Backend
+
+* ASP.NET Core MVC
+* ASP.NET Core Web API
+* Entity Framework Core
+* Dapper
+* REST APIs
+* JWT Authentication
+* Role-Based Authorization
+
+### Databases
+
+* Microsoft SQL Server
+
+### Frontend
+
+* Bootstrap
+* JavaScript
+* jQuery
+* Razor Views
+* HTML5
+* CSS3
+* Chart.js
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=steve0i8&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve0i8&layout=compact&theme=tokyonight&count_private=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=steve0i8&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=steve0i8&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=steve0i8&theme=tokyonight&margin-w=15&no-frame=true"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* Azure
+* Docker
+* Microservices
+* SignalR
+* Clean Architecture
+* System Design
+* Distributed Systems
+* CI/CD Pipelines
+
+---
+
+# 🎯 Career Goal
+
+My goal is to become a globally competitive software engineer by designing secure, scalable, and intelligent software solutions while continuously learning from experienced engineers and contributing to impactful products.
+
+---
+
+# 🤝 Open To
+
+* Graduate Software Engineering Roles
+* Backend Development
+* Full-Stack Development
+* Cloud Engineering
+* Open Source Collaboration
+
+---
+
+# 📫 Connect With Me
+
+* 💼 LinkedIn: *(https://www.linkedin.com/in/sivuziwe-manyuka-a294aa287/)*
+* 📧 Email: *(sivuziwemanyuka10@gmail.com)*
+
+---
+
+> *"Great software isn't just about writing code—it's about designing solutions that are secure, scalable, maintainable, and make a real impact."*
