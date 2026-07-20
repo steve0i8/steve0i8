@@ -119,25 +119,13 @@ Built using ASP.NET Core MVC with a focus on scalability and maintainability.
 * HTML5
 * CSS3
 * Chart.js
+* React
 
 ### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" />
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=steve0i8&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve0i8&layout=compact&theme=tokyonight&count_private=true"/>
-
-</p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -158,14 +146,6 @@ Built using ASP.NET Core MVC with a focus on scalability and maintainability.
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=steve0i8&theme=tokyonight&margin-w=15&no-frame=true"/>
-</p>
 
 ---
 
